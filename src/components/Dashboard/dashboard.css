@@ -1,0 +1,31 @@
+.dashboard{
+    margin-left: 10%;      
+}
+.text-muted{
+    margin-left: 20px;
+    font-size: 15px;
+}
+h3{
+    margin-left: 14px;
+}
+.details{
+    margin: 10px;
+}
+.findit{
+    padding-left: 20px;
+}
+.mainlink{
+    margin-left: 340px;
+}
+.textcolour{
+    color:green;
+    padding: 0px 60px 0px 60px;
+    cursor: pointer;
+    text-align: center;
+}
+.visited{
+    margin-left: 200px;
+}
+.lined{
+    padding-right: 10px;
+}
